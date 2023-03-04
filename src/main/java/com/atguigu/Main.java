@@ -12,5 +12,6 @@ public class Main {
         System.out.println("Hello git3333!");
         System.out.println("Hello git4444!");
         System.out.println("Hello master-test!");
+        System.out.println("Hello hot-fix111!");
     }
 }
