@@ -15,6 +15,7 @@ public class Main {
         System.out.println("Hello hot-fix111!");
         System.out.println("Hello push test");
         System.out.println("Hello pll test");
-        
+        System.out.println("Hello push2 test2");
+
     }
 }
